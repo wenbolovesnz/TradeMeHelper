@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "TradeMe Helper",
 	"description": "Adds user comment to the TradeMe website",
-	"version":"1.0",
+	"version":"1.1",
 
 	"page_action":{
 		"default_icon": "icon.png",
